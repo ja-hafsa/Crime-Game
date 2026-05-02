@@ -1,2 +1,3 @@
-#🕵️ Crime Investigation Game (AI-Based)
+#Crime Investigation Game (AI-Based)
+
 This project is an interactive detective game developed by Team Bonolota. Players act as investigators to solve complex crime cases through evidence analysis and suspect interrogation.  🚀 Key FeaturesCase Investigation: Receive unique crime stories and identify the culprit.  Evidence Module: Collect and analyze clues to build your case.  AI Hint System: Get intelligent assistance when stuck during an investigation.  Interrogation: Question suspects using a dedicated interrogation mechanism.  Leaderboard: Compete with others and track scores.  🛠️ Tech StackFrontend: HTML, CSS, JavaScript.  Backend: Spring Boot.  Database: MySQL.  AI Engine: Python / Rule-Based AI.  
